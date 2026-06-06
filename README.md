@@ -125,5 +125,4 @@ This project demonstrates the ability to transform raw data into meaningful insi
 Lakshmi Priya
 
 Aspiring Data Analyst
-Aspiring Data Analyst
 
